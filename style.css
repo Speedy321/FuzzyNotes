@@ -1,0 +1,13 @@
+.cardBody {
+    min-width: 200px;
+    min-height: 300px;
+    width: auto;
+    height: auto;
+    margin: 2px;
+}
+
+.container {
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 3px;
+}

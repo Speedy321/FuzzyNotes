@@ -1,0 +1,3 @@
+
+
+$('#switch-modal').bootstrapSwitch();
